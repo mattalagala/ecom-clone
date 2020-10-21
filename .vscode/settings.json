@@ -1,0 +1,11 @@
+{
+    "files.autoSaveDelay": 500,
+    "files.autoSave": "afterDelay",
+    "prettier.jsxBracketSameLine": true,
+    "prettier.jsxSingleQuote": true,
+    "prettier.resolveGlobalModules": true,
+    "prettier.useTabs": true,
+    "prettier.vueIndentScriptAndStyle": true,
+    "prettier.withNodeModules": true,
+    "editor.formatOnSave": true
+}
