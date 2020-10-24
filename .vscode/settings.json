@@ -7,5 +7,10 @@
     "prettier.useTabs": true,
     "prettier.vueIndentScriptAndStyle": true,
     "prettier.withNodeModules": true,
-    "editor.formatOnSave": true
+    "editor.formatOnSave": true,
+    "emmet.triggerExpansionOnTab": true,
+    "emmet.includeLanguages": {
+        "\"javascript\"": "\"javascriptreact\""
+    },
+    "emmet.showSuggestionsAsSnippets": true
 }
